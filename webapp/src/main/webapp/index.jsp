@@ -17,7 +17,7 @@
   
   <div class="input-container">
     <i class="fa fa-key icon"></i>
-    <input class="input-field" type="password" placeholder="Password" name="psd">
+    <input class="input-field" type="password" placeholder="Password" name="psdw">
   </div>
 
   <button type="submit" class="btn">Register</button>
