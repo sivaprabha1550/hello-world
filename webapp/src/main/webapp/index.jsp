@@ -2,22 +2,22 @@
   <h2>Register Form</h2>
   <div class="input-container">
     <i class="fa fa-user icon"></i>
-    <input class="input-field" type="text" placeholder="Username" name="username">
+    <input class="input-field" type="text" placeholder="Username" name="usrnm">
   </div>
 
   <div class="input-container">
     <i class="fa fa-envelope icon"></i>
-    <input class="input-field" type="text" placeholder="E-mail" name="e-mail">
+    <input class="input-field" type="text" placeholder="Email" name="email">
   </div>
   
    <div class="input-container">
     <i class="fa fa-envelope icon"></i>
-    <input class="input-field" type="text" placeholder="D-O-B" name="D-O-B">
+    <input class="input-field" type="text" placeholder="DOB" name="DOB">
   </div>
   
   <div class="input-container">
     <i class="fa fa-key icon"></i>
-    <input class="input-field" type="password" placeholder="Password" name="psdw">
+    <input class="input-field" type="password" placeholder="Password" name="psw">
   </div>
 
   <button type="submit" class="btn">Register</button>
