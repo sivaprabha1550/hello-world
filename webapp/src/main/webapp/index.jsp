@@ -7,12 +7,12 @@
 
   <div class="input-container">
     <i class="fa fa-envelope icon"></i>
-    <input class="input-field" type="text" placeholder="Email" name="email">
+    <input class="input-field" type="text" placeholder="E-mail" name="e-mail">
   </div>
   
    <div class="input-container">
     <i class="fa fa-envelope icon"></i>
-    <input class="input-field" type="text" placeholder="DOB" name="DOB">
+    <input class="input-field" type="text" placeholder="D-O-B" name="D-O-B">
   </div>
   
   <div class="input-container">
