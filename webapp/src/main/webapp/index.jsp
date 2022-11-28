@@ -25,5 +25,10 @@
     <input class="input-field" type="password" placeholder="phone number" name="ph.no">
   </div>
   
+  <div class="input-container">
+    <i class="fa fa-number icon"></i>
+    <input class="input-field" type="password" placeholder="parent phone number" name="parent.ph.no">
+  </div>
+  
   <button type="submit" class="btn">Register</button>
 </form>
