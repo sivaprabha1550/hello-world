@@ -12,7 +12,7 @@
   
    <div class="input-container">
     <i class="fa fa-envelope icon"></i>
-    <input class="input-field" type="text" placeholder="DOB" name="DOB">
+    <input class="input-field" type="text" placeholder="D-O-B" name="DOB">
   </div>
   
   <div class="input-container">
