@@ -31,7 +31,7 @@
   </div>
   <div class="input-container">
     <i class="fa fa-number icon"></i>
-    <input class="input-field" type="password" placeholder="Rank" name="Rank">
+    <input class="input-field" type="password" placeholder="id" name="id">
   </div>
   
   
