@@ -22,7 +22,7 @@
   
   <div class="input-container">
     <i class="fa fa-number icon"></i>
-    <input class="input-field" type="password" placeholder="phone number" name="ph.no">
+    <input class="input-field" type="password" placeholder="ph number" name="ph.no">
   </div>
 
   <button type="submit" class="btn">Register</button>
