@@ -2,8 +2,8 @@
 ## slide
 ### one two
 > hello world
--- heloo
--- world
+- heloo
+- world
 ```
 print (" helloworld")
 ```
